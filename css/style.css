@@ -4,12 +4,14 @@ html {
   border-color: darkslategray;
   background-color: cornsilk;
 }
+
 header {
   background-image: url(../photos/blackGrey.avif);
   background-color: beige;
   color: goldenrod;
   font-family: serif;
 }
+
 .banner {
   background-image: url(../photos/nice.jpg);
   background-size: cover;
