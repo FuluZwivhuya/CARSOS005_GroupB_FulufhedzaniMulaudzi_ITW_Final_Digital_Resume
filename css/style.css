@@ -92,6 +92,19 @@ header {
   grid-column: span;
 }
 
+.grid-item {
+  display: grid;
+  background-color: beige;
+  width: 300px;
+  height: 250px;
+}
+
+.flex-container {
+  display: flexbox;
+  background-color: aqua;
+  width: 300px;
+  height: 250px;
+}
 @media only screen and (min-width: 300px) {
   html {
     background-color: gainsboro;
